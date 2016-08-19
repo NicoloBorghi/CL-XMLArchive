@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <metadata_entry>
   <Variables>
-    <variable name="DiagnosticPlugLength" type="double">0.2</variable>
-    <variable name="DiagnosticPlugWidth" type="double">9</variable>
+    <variable name="DiagnosticPlugLength" type="double">10</variable>
+    <variable name="DiagnosticPlugWidth" type="double">5</variable>
     <variable name="DiagnosticPlugXStep" type="double">-17.2</variable>
     <variable name="DiagnosticPlugXYangle" type="double">10</variable>
     <variable name="DiagnosticPlugYStep" type="double">211</variable>
     <variable name="DiagnosticPlugZStep" type="double">0</variable>
     <variable name="DiagnosticPlugZangle" type="double">0</variable>
 
-    <variable name="StrawCollimatorBulkMat" type="std::string">SS304</variable>
-    <variable name="StrawCollimatorDistanceTargetSurfImagingPlane" type="double">200</variable>
-    <variable name="StrawCollimatorRowDistance" type="double">3</variable>
-    <variable name="StrawCollimatorStrawLength" type="double">0.1</variable>
-    <variable name="StrawCollimatorStrawWidth" type="double">0.1</variable>
+    <variable name="RectangularPinholeDistancePinholeImagingPlane" type="double">100</variable>
+    <variable name="RectangularPinholeDistanceTargetSurfImagingPlane" type="double">200</variable>
+    <variable name="RectangularPinholeRadialPinholeOffset" type="double">0</variable>
+    <variable name="RectangularPinholeRadialPinholeWidth" type="double">0.1</variable>
+    <variable name="RectangularPinholeTransversalPinholeOffset" type="double">0</variable>
+    <variable name="RectangularPinholeTransversalPinholeWidth" type="double">0.1</variable>
   </Variables>
 </metadata_entry>
