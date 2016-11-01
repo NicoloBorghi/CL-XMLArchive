@@ -10,7 +10,7 @@
     <variable name="DiagnosticPlugZangle" type="double">0</variable>
 
     <variable name="StrawCollimatorBulkMat" type="std::string">SS304</variable>
-    <variable name="StrawCollimatorDistanceTargetSurfImagingPlane" type="double">200</variable>
+    <variable name="StrawCollimatorDistanceTargetSurfImagingPlane" type="double">285.8</variable>
     <variable name="StrawCollimatorRowDistance" type="double">0.1</variable>
     <variable name="StrawCollimatorStrawLength" type="double">0.1</variable>
     <variable name="StrawCollimatorStrawWidth" type="double">0.1</variable>
