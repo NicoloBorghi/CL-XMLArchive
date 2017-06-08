@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<metadata_entry>
+  <Variables>
+    <variable name="BilbaoWheelInnerStructureSec0BrickActive" type="int">1</variable>
+    <variable name="BilbaoWheelInnerStructureSec19BrickActive" type="int">1</variable>
+
+    <variable name="DiagnosticPlugActivationLayerHeight" type="double">50</variable>
+    <variable name="DiagnosticPlugActivationLayerThick1" type="double">1</variable>
+    <variable name="DiagnosticPlugActivationLayerThick2" type="double">2</variable>
+    <variable name="DiagnosticPlugActivationLayerThick3" type="double">5</variable>
+    <variable name="DiagnosticPlugActivationWallsMaterial" type="std::string">CastIron</variable>
+    <variable name="DiagnosticPlugLength" type="double">50</variable>
+    <variable name="DiagnosticPlugTopShieldingMaterial" type="std::string">CastIron</variable>
+    <variable name="DiagnosticPlugWidth" type="double">5</variable>
+    <variable name="DiagnosticPlugXStep" type="double">-17.2</variable>
+    <variable name="DiagnosticPlugXYangle" type="double">10</variable>
+    <variable name="DiagnosticPlugYStep" type="double">211</variable>
+    <variable name="DiagnosticPlugZStep" type="double">0</variable>
+    <variable name="DiagnosticPlugZangle" type="double">0</variable>
+
+    <variable name="ScintillatorBlockActivationLayerThick1" type="double">1</variable>
+    <variable name="ScintillatorBlockActivationLayerThick2" type="double">2</variable>
+    <variable name="ScintillatorBlockActivationLayerThick3" type="double">5</variable>
+    <variable name="ScintillatorBlockCladdingDepth" type="double">0.35</variable>
+    <variable name="ScintillatorBlockCladdingRadius" type="double">0.125</variable>
+    <variable name="ScintillatorBlockCladdingSeparation" type="double">0.09</variable>
+    <variable name="ScintillatorBlockEpoxyMaterial" type="std::string">Epoxy</variable>
+    <variable name="ScintillatorBlockFiberMaterial" type="std::string">PMMA</variable>
+    <variable name="ScintillatorBlockHeight" type="double">7</variable>
+    <variable name="ScintillatorBlockMaterial" type="std::string">SS304</variable>
+    <variable name="ScintillatorBlockScintillatorHeight" type="double">1</variable>
+    <variable name="ScintillatorBlockScintillatorLength" type="double">0.1</variable>
+    <variable name="ScintillatorBlockScintillatorMaterial" type="std::string">BGO</variable>
+    <variable name="ScintillatorBlockScintillatorSeparation" type="double">0.1</variable>
+    <variable name="ScintillatorBlockScintillatorWidth" type="double">0.1</variable>
+
+    <variable name="StrawCollimatorActivationLayerThick1" type="double">1</variable>
+    <variable name="StrawCollimatorActivationLayerThick2" type="double">2</variable>
+    <variable name="StrawCollimatorActivationLayerThick3" type="double">5</variable>
+    <variable name="StrawCollimatorBulkMat" type="std::string">SS304</variable>
+    <variable name="StrawCollimatorDistanceTargetSurfImagingPlane" type="double">285.8</variable>
+    <variable name="StrawCollimatorRowDistance" type="double">0.1</variable>
+    <variable name="StrawCollimatorStrawLength" type="double">0.1</variable>
+    <variable name="StrawCollimatorStrawWidth" type="double">0.1</variable>
+  </Variables>
+</metadata_entry>
